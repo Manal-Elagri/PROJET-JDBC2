@@ -40,7 +40,7 @@ Le projet comprend les éléments suivants :
     ```
 
 ### Création de la table `message` :
-    ```sql
+    ````sql
     CREATE TABLE IF NOT EXISTS `message` (
       `id` int(11) NOT NULL AUTO_INCREMENT,
       `objet` varchar(50) NOT NULL,
@@ -94,6 +94,7 @@ Le projet contient les éléments suivants :
 
 - **JDK 11+**
 - **NetBeans 12+**
+- **Base de données MySQL**
 
 ## Installation
 
@@ -164,11 +165,11 @@ CREATE TABLE IF NOT EXISTS manager_developpeur (
 
 ## Utilisation
 
-1-La Création de deux développeurs.
-2-La Création d'un manager qui gère les deux développeurs.
-3-La Création d'un troisième développeur.
-4-La Création d'un directeur général qui gère le manager et le troisième développeur.
-5-L'affichage des noms et des salaires des employés de haut en bas de la hiérarchie.
+1- La Création de deux développeurs.
+2- La Création d'un manager qui gère les deux développeurs.
+3- La Création d'un troisième développeur.
+4- La Création d'un directeur général qui gère le manager et le troisième développeur.
+5- L'affichage des noms et des salaires des employés de haut en bas de la hiérarchie.
 
 
 
