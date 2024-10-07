@@ -165,11 +165,11 @@ CREATE TABLE IF NOT EXISTS manager_developpeur (
 
 ## Utilisation
 
-1- La Création de deux développeurs.
-2- La Création d'un manager qui gère les deux développeurs.
-3- La Création d'un troisième développeur.
-4- La Création d'un directeur général qui gère le manager et le troisième développeur.
-5- L'affichage des noms et des salaires des employés de haut en bas de la hiérarchie.
+1. La Création de deux développeurs.
+2. La Création d'un manager qui gère les deux développeurs.
+3. La Création d'un troisième développeur.
+4. La Création d'un directeur général qui gère le manager et le troisième développeur.
+5. L'affichage des noms et des salaires des employés de haut en bas de la hiérarchie.
 
 
 
